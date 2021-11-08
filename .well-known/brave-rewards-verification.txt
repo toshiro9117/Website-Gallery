@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: toshiro.ml
+Token: 60adae1d262695ba6aab4ec28baa95d39cebf0e1d6e4ea7a8a32db3561ce8e7b
